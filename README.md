@@ -1,4 +1,4 @@
-# Text Editor
+# E-commerce Background
 
 ## Table of Contents
 
